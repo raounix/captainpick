@@ -44,13 +44,9 @@ Junior Web Developer with over 4 years of experience specializing in Backend & F
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" style="margin:6px 4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/wpf.svg" style="margin:6px 4px">
       <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" style="margin:6px 4px">
-
 </br>
-  <br>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg" style="margin:6px 4px">
-  <br>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg" style="margin:6px 4px">
-  <br>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" style="margin:6px 4px">
   <br>
 </p>
