@@ -16,7 +16,7 @@ Junior Web Developer with over 4 years of experience specializing in Backend & F
 
 <a href=https://twitter.com/raoufbaghejary target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a>
 <a href=www.linkedin.com/in/raoufbaghejary target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="20" width="20" /></a>
-<a href=https://instagram.com/captainpick target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
+<a href=https://instagram.com/capitanpick target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
 <a href=https://t.me/capitanpick target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="20" width="20" /></a>
 </p>
 
