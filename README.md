@@ -2,7 +2,7 @@
 # Raouf Baghejary
 
 
-<p align="center"> ![image](https://github.com/captainpick/captainpick/blob/master/typing.gif) </p>
+<p align="center"> <img src=https://github.com/captainpick/captainpick/blob/master/typing.gif /> </p>
 
 <br/>
 
