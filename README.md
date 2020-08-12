@@ -2,7 +2,7 @@
 # Raouf Baghejary
 
 
-<h1 align="center">Hi , I'm Raouf</h1>
+<p align="center"> ![image](https://github.com/captainpick/captainpick/blob/master/typing.gif) </p>
 
 <br/>
 
