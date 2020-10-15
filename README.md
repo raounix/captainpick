@@ -23,7 +23,7 @@ Junior Web Developer with over 4 years of experience specializing in Backend & F
 <br/>  
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=captainpick&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
+  <img src=https://github-readme-stats.vercel.app/api?username=captainpick&theme=calm&line_height=20 />
 </p>
 
 <br/>  
